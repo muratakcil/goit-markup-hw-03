@@ -105,6 +105,15 @@ button {
     
 }
 
+.teamcontent {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .team ul li {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.096);
     background-color: #fff;
